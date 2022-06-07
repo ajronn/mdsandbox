@@ -22,7 +22,10 @@ JIRA - zarezerwowane dla zgłoszeń przepisanych z JIRY.
 # Przepływ
 
 ## User Story
+![Screenshot](us%20flow.png)
+
 ## Bug
+![Screenshot](bug%20flow.png)
 
 # Podsumowanie
 
